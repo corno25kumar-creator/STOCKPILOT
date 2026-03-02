@@ -1,6 +1,11 @@
 <img width="2552" height="2841" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/1ab3ff65-e0b3-4817-90f4-82eb9ec2af97" />
 
 
+# IN SIMPLE TERMS
+<img width="977" height="646" alt="image" src="https://github.com/user-attachments/assets/df4e75e1-38cf-4404-902b-d77b94cda7ad" />
+
+
+
 # 📦 StockPilot – Inventory & Order Management System (OMS)
 
 A production-grade Inventory & Order Management System built with:
