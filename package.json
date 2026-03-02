@@ -1,12 +1,11 @@
 {
   "name": "stockpilot",
-  "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "build": "cd frontend && npm run build",
+    "start": "node backend/src/server.js",
+    "dev": "cd backend && npm run dev",
+    "render-build": "npm run install-all && npm run build"
+  }
 }
