@@ -1,4 +1,5 @@
-![Flow Diagram](./img_section/mermaid-diagram-name.png)
+<img width="2552" height="2841" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/1ab3ff65-e0b3-4817-90f4-82eb9ec2af97" />
+
 
 # 📦 StockPilot – Inventory & Order Management System (OMS)
 
