@@ -8,4 +8,8 @@ export const userType = `#graphql
   type Query {
     users: [User!]!
   }
+
+  type Mutation {
+    _empty: String
+  }
 `;
