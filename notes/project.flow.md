@@ -1,4 +1,4 @@
-![alt text](mermaid-diagram.png)
+![Flow Diagram](./img_section/mermaid-diagram-name.png)
 
 # 📦 StockPilot – Inventory & Order Management System (OMS)
 
